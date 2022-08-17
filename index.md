@@ -1,1 +1,2 @@
-# This is content
+# This is QUALITY content
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
